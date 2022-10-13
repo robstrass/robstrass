@@ -1,6 +1,7 @@
 # Hi there, I'm Rob! 👋
 
 💻 [Check out some of my work](https://robstrass.github.io/)<br>
+👨‍💻 View my [work github profile](https://github.com/rstrasser-spj)<br>
 📌 Currently in the Bay Area, CA<br>
 🌱 I'm a full-stack JavaScript/Python developer<br>
 🐱 I have a cat named Luna<br>
@@ -12,6 +13,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robstrasser-/)
 
 #### My Primary Languages
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
