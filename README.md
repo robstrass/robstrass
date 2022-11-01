@@ -1,7 +1,7 @@
 # Hi there, I'm Rob! 👋
 
 💻 [Check out some of my work](https://robstrass.github.io/)<br>
-👨‍💻 View my [work github profile](https://github.com/rstrasser-spj)<br>
+<!-- 👨‍💻 View my [work github profile](https://github.com/rstrasser-spj)<br> -->
 📌 Currently in the Bay Area, CA<br>
 🌱 I'm a full-stack JavaScript/Python developer<br>
 🐱 I have a cat named Luna<br>
