@@ -3,7 +3,7 @@
 💻 [Check out some of my work](https://robstrass.github.io/)<br>
 <!-- 👨‍💻 View my [work github profile](https://github.com/rstrasser-spj)<br> -->
 📌 Currently in the Bay Area, CA<br>
-🌱 I'm a full-stack JavaScript/Python developer<br>
+🌱 I'm a full-stack TypeScript developer<br>
 🐱 I have a cat named Luna<br>
 🕹 I'm an avid gamer<br>
 👾 I love learning about crypto and NFTs<br>
